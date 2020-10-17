@@ -35,7 +35,7 @@
 
 .timeline li .timelineUnit .timelineDate {
 	line-height: 17px;
-	color:#cf455c;
+	color:#43238d;
 	font-size: 14px;
 	margin-left: 10px;
 	font-weight: normal;
@@ -123,7 +123,7 @@
 }
 
 #resume .button:hover {
-	background-color:#cf455c;
+	background-color:#43238d;
 }
 
 /*-------------------------------------------------------*/
